@@ -23,6 +23,8 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 origins = [
     "http://localhost:5173",  # Your Vite React app's local address
+    "http://daedalus.ncl.ac.uk:5173",
+    "http://daedalus.ncl.ac.uk:3000",
 ]
 
 app.add_middleware(
