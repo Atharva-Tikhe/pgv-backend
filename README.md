@@ -1,4 +1,4 @@
-# PGV-backend (Personalized Genome Viewer Backend)
+# PGV-backend (Patient Genome Viewer Backend)
 
 This is the backend for the Personalized Genome Viewer (PGV) project. It is built with FastAPI and provides endpoints for managing genomic sample metadata, batch information, and interpretations.
 
